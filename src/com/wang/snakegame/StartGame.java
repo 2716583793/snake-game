@@ -7,7 +7,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 /**
- * @author Busy_luo
+ * @author LuoLi
  * @Date: 2021/2/28
  * 程序启动
  */
